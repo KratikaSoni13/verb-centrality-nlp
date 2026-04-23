@@ -30,3 +30,5 @@ NetworkX
 Pandas
 Matplotlib
 NLP parsing tools (UD treebanks / parsers)
+
+(files uploded are a smaller sample of 1k rows not the actual files)
